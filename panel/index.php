@@ -1,5 +1,6 @@
 <?php 
 include('components/header.php');
+
 ?>
 
             <!-- Sale & Revenue Start -->

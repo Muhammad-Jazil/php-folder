@@ -1,15 +1,15 @@
 <?php
 include('components/header.php');
 include('php/query.php');
+
 ?>
 
             <!-- category Start -->
             <div class="container-fluid pt-4 px-4">
                 <div class="row vh-100 bg-light rounded mx-0">
                     <div class="col-md-12 px-3 py-5">
-                        <h3>This is blank page</h3>
-
-                        <form>
+                        <h3>ADD CATEGORY</h3>
+                        <form method="post" enctype="multipart/form-data">
                                 <div class="mb-3">
                                     <label for="exampleInputEmail1" class="form-label">Category Name</label>
                                     <input type="text" class="form-control" id="exampleInputEmail1"
