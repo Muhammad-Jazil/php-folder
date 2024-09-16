@@ -1,6 +1,6 @@
 <?php
-include('components/header.php');
-include('php/query.php');
+include("components/header.php");
+
 
 ?>
 
@@ -29,11 +29,11 @@ include('php/query.php');
                 </div>
             </div>
             <!-- category End -->
-
+s
 
 
 
 
 <?php
-include('components/footer.php');
+include("components/footer.php");
 ?>
